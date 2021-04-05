@@ -2,7 +2,7 @@ function [X,Y] = Data(image,r)
 % Detailed explanation of this function goes here:
 % Input: 'image' is a binary image, and 'r' is the radius of a data template with one central pixel.
 % Ouput: Training data (data event). 
-% 'Y' is the central pixel, and 'X' the surrounding neibourhoods.
+% 'Y' is the central pixel, and 'X' is the surrounding neibourhoods.
 
 [ysize xsize] = size(image);
 C=double(image);
