@@ -1,8 +1,8 @@
-%%% The main program of 2D microstructure characterization and rconstruction %%%
+%%% The main program of 2D microstructure characterization and reconstruction %%%
 %%% The three-level approch %%%
-%%% Coder: Jinlong Fu and Prof. Chenfeng Li
-%%% Institute: Swansea University
-%%% Email: 887538@swansea.ac.uk and c.f.li@swansea.ac.uk
+%%% Coder: Jinlong Fu %%%
+%%% Institute: Swansea University %%%
+%%% Email: 887538@swansea.ac.uk %%%
 %%% MATLAB 2016a %%%
 
 clc;
