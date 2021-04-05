@@ -1,4 +1,4 @@
-# Microstructure_Reconstruction
+# Micro-Recon
 
 Statistical characterization and reconstruction of heterogeneous microstructures using deep neural network
 
