@@ -9,3 +9,8 @@ Heterogeneous materials, whether natural or artificial, are usually composed of 
 Fu J, Cui S, Cen S, et al. Statistical characterization and reconstruction of heterogeneous microstructures using deep neural network[J]. Computer Methods in Applied Mechanics and Engineering, 2021, 373: 113516.
 
 https://doi.org/10.1016/j.cma.2020.113516
+
+
+# Contact me
+Please feel free to contact me for more codes!
+Email: 887538@swansea.ac.uk
