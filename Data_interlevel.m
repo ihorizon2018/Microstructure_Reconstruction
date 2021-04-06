@@ -1,11 +1,10 @@
 function [X,Y] = Data_interlevel(I1,I2,r)
-% This function is to collect training data (data event) 
-% from images at two different levels.
+% This function is to collect training data (data events) from images at two different levels.
 % Detailed explanation of this function goes here:
 % 'I1' is the training image at high level.
 % 'I2' is the training image at low level.
-% 'r' is the radius of data template with 4 central pixels.
-% 'Y' is the central pixel, and 'X' the surrounding neibourhoods.
+% 'r' is the radius of the data template with 4 central pixels.
+% 'Y' is the central pixel, and 'X' is the surrounding neibourhoods.
 
 [x1,y1]=size(I1);
 T=(x1-2*r-2)/2*(y1-2*r-2)/2;
