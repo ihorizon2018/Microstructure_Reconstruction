@@ -1,4 +1,4 @@
-%%% The main program of 2D microstructure characterization and reconstruction %%%
+%%% The main program of 2D microstructure characterization and reconstruction via deep neural networks%%%
 %%% The three-level approch %%%
 %%% Coder: Jinlong Fu %%%
 %%% Institute: Swansea University %%%
